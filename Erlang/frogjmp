@@ -1,5 +1,0 @@
--module(frogjmp).
--compile(export_all).
-
-solution(X,Y,D) when X < Y -> D;
-solution(X,Y,D) -> 0.
