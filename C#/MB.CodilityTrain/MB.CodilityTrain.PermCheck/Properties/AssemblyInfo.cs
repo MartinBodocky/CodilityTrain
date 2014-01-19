@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MB.CodilityTrain.FrogJmp")]
+[assembly: AssemblyTitle("MB.CodilityTrain.PermCheck")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MB.CodilityTrain.FrogJmp")]
+[assembly: AssemblyProduct("MB.CodilityTrain.PermCheck")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("3beccb01-d69e-443a-bb4a-f57dc54bd79c")]
+[assembly: Guid("36991130-370c-4aa7-9b86-cd42ec934288")]
 
 // Version information for an assembly consists of the following four values:
 //

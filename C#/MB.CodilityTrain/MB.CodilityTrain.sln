@@ -1,7 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB.CodilityTrain.SmallFrog", "MB.CodilityTrain.SmallFrog\MB.CodilityTrain.SmallFrog.csproj", "{CF3C938F-EB4A-468F-9F12-2DA8DBCAEB70}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB.CodilityTrain.FrogJmp", "MB.CodilityTrain.SmallFrog\MB.CodilityTrain.FrogJmp.csproj", "{CF3C938F-EB4A-468F-9F12-2DA8DBCAEB70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB.CodilityTrain.PermMissingElem", "MB.CodilityTrain.PermMissingElem\MB.CodilityTrain.PermMissingElem.csproj", "{AC92DE02-5C80-4A19-95CA-02005BDA9415}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB.CodilityTrain.TapeEquilibrium", "MB.CodilityTrain.TapeEquilibrium\MB.CodilityTrain.TapeEquilibrium.csproj", "{C063979F-82C4-4993-9D48-F233E3FCFCFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB.CodilityTrain.PermCheck", "MB.CodilityTrain.PermCheck\MB.CodilityTrain.PermCheck.csproj", "{E0FED4AC-BC96-4B17-9333-0048F604846B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB.CodilityTrain.FrogRiverOne", "MB.CodilityTrain.FrogRiverOne\MB.CodilityTrain.FrogRiverOne.csproj", "{FA18453D-836F-4FFD-BD63-D17F1D538319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB.CodilityTrain.MaxCounters", "MB.CodilityTrain.MaxCounters\MB.CodilityTrain.MaxCounters.csproj", "{877606CE-C43D-4D90-AA75-880260D7167E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +23,26 @@ Global
 		{CF3C938F-EB4A-468F-9F12-2DA8DBCAEB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF3C938F-EB4A-468F-9F12-2DA8DBCAEB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF3C938F-EB4A-468F-9F12-2DA8DBCAEB70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC92DE02-5C80-4A19-95CA-02005BDA9415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC92DE02-5C80-4A19-95CA-02005BDA9415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC92DE02-5C80-4A19-95CA-02005BDA9415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC92DE02-5C80-4A19-95CA-02005BDA9415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C063979F-82C4-4993-9D48-F233E3FCFCFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C063979F-82C4-4993-9D48-F233E3FCFCFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C063979F-82C4-4993-9D48-F233E3FCFCFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C063979F-82C4-4993-9D48-F233E3FCFCFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0FED4AC-BC96-4B17-9333-0048F604846B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0FED4AC-BC96-4B17-9333-0048F604846B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0FED4AC-BC96-4B17-9333-0048F604846B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0FED4AC-BC96-4B17-9333-0048F604846B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA18453D-836F-4FFD-BD63-D17F1D538319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA18453D-836F-4FFD-BD63-D17F1D538319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA18453D-836F-4FFD-BD63-D17F1D538319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA18453D-836F-4FFD-BD63-D17F1D538319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{877606CE-C43D-4D90-AA75-880260D7167E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877606CE-C43D-4D90-AA75-880260D7167E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877606CE-C43D-4D90-AA75-880260D7167E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877606CE-C43D-4D90-AA75-880260D7167E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
