@@ -1,0 +1,2 @@
+C:\Users\MartinBodocky\Documents\Visual Studio 2012\Projects\MB.CodilityTrain\MB.CodilityTrain.SmallFrog\bin\Debug\MB.CodilityTrain.SmallFrog.exe.config
+C:\Users\MartinBodocky\Documents\GitHub\CodilityTrain\C#\MB.CodilityTrain\MB.CodilityTrain.SmallFrog\bin\Debug\MB.CodilityTrain.SmallFrog.exe.config
