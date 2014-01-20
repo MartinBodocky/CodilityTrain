@@ -1,6 +1,8 @@
 -module(frogjmp).
 -compile(export_all).
 
+%% details: http://codility.com/demo/results/demoJYANDY-QFY/
+
 solution(X,Y,D) when X < Y -> 
 	Distance = Y - X,
 	Steps = Distance div D,
@@ -10,3 +12,5 @@ solution(X,Y,D) when X < Y ->
 		end,
 	Res;
 solution(_,_,_) -> 0.
+
+example() -> solution(10,85,30).
